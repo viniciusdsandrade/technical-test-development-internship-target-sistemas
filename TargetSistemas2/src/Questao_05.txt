@@ -1,0 +1,33 @@
+Para resolver esse problema, devemos analisar as velocidades dos dois veículos e os obstáculos (pedágios), mas, antes de tudo, é importante entender que quando os dois veículos se cruzam na estrada, eles estarão à mesma distância do ponto de encontro. Ou seja, não importa a velocidade ou os pedágios, quando eles se cruzarem, ambos estarão à mesma distância de Ribeirão Preto naquele momento.
+
+Explicação detalhada:
+Velocidades:
+
+O carro viaja a 90 km/h.
+O caminhão viaja a 80 km/h.
+Distância total:
+
+A distância entre Ribeirão Preto e Barretos é de 125 km.
+Pedágios:
+
+O caminhão não tem o mesmo atraso nos pedágios que o carro.
+O carro leva 5 minutos a mais em cada pedágio, totalizando 15 minutos adicionais ao tempo de viagem.
+Cálculo do ponto de encontro:
+Como o carro e o caminhão estão se movendo em direções opostas, podemos determinar o ponto de encontro considerando as velocidades relativas dos dois veículos.
+
+A soma das velocidades dos veículos é:
+
+Velocidade combinada = 90 km/h (carro) + 80 km/h (caminhão) = 170 km/h
+Agora, precisamos calcular em quanto tempo eles se encontrarão. Como a distância entre as cidades é de 125 km, o tempo que levará para se cruzarem é:
+
+Tempo de encontro = 125km / 170km/h = 0,7353 horas ≈ 44minutos
+
+Isso significa que os dois veículos se cruzarão aproximadamente 44 minutos após saírem das cidades opostas.
+
+Consideração dos pedágios:
+O carro tem um atraso de 15 minutos devido aos pedágios. Se subtrairmos esse tempo adicional da viagem do carro, ainda assim, a resposta não mudará em relação à pergunta original. Isso ocorre porque, no momento em que eles se cruzam, ambos estarão no mesmo ponto da rodovia e, portanto, estarão à mesma distância de Ribeirão Preto, independentemente do tempo extra gasto pelo carro nos pedágios.
+
+Conclusão:
+Quando o carro e o caminhão se cruzarem, eles estarão à mesma distância de Ribeirão Preto. Isso ocorre porque eles se encontram no mesmo ponto da estrada, independentemente dos obstáculos ou diferenças de velocidade.
+
+Portanto, nenhum dos dois estará mais próximo de Ribeirão Preto quando eles se cruzarem.
